@@ -3,7 +3,6 @@
 // L - 45   INTRODUCTION TO BS
 // LC - 704 binary search
 //
-//
 // normal code 
 // reccursive code
 //int bs(int a[] ,int n , int l , int mid , int r,int target )
